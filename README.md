@@ -1,4 +1,4 @@
-# Detection_DL
+# OBJECT DETECTION FOR FRUITS, VEGETABLES AND FLOWERS
 In this project, our group has studied on how to classify fruits, vegetables and flowers in images with the Green Finder dataset (Tobi, 2020), the team used 20 labels in total
 116 labels of the tuple , then apply these pretreatment methods, improvement methods improve the accuracy of the model, apply the convolutional network in classification, through which
 our team trained the model and ran predict on 6 different models and get results the highest result in Faster R-CNN model with degree exactly 0.99.
@@ -29,3 +29,7 @@ AlexNet
 
 ![image](https://github.com/ThuyTien622001/Detection_DL/assets/133883046/33d9d070-703c-4210-be98-094fd4ffe8cf)
 
+
+RESULT
+
+![image](https://github.com/ThuyTien622001/Detection_DL/assets/133883046/24e3a0df-4e8c-4edd-8c8d-56287d521a3c)
